@@ -1,0 +1,7 @@
+----
+languages:
+  css:
+    extensionss:
+      - '-css.resource'
+exclude_path:
+  _ site/public/css/page/**/*
